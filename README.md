@@ -1,6 +1,6 @@
 ## CoffeeHouse Coupon Acceptance Analysis
 
-My name is Nohelia Gil, I am based in San Francisco, California. This analysis has been conducted as part of an assignment for the Artificial Intelligence and Machine Learning Certification program at UC Berkeley.
+My name is Nohelia Gil, I am based in San Francisco, California. This analysis has been conducted as part of a Practical Aplication for the Artificial Intelligence and Machine Learning Certification program at UC Berkeley.
 
 In this project, I analyze customer behavior related to CoffeeHouse coupon acceptance. Using a dataset collected from drivers through Amazon Mechanical Turk, the goal is to identify patterns and characteristics that influence whether a customer accepts or rejects a CoffeeHouse coupon. By exploring factors such as age, income, occupation, and driving habits, I aim to uncover insights that can help businesses better target customers with tailored coupon strategies.
 
